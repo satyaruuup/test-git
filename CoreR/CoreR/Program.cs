@@ -12,6 +12,7 @@ namespace CoreR
 {
     public class Program
     {
+        // test 2
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
