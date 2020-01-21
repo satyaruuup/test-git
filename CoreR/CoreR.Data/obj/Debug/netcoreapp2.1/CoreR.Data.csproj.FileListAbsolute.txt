@@ -1,0 +1,14 @@
+E:\3.Learning\2.CoreR\CoreR\CoreR.Data\bin\Debug\netcoreapp2.1\CoreR.Data.deps.json
+E:\3.Learning\2.CoreR\CoreR\CoreR.Data\bin\Debug\netcoreapp2.1\CoreR.Data.dll
+E:\3.Learning\2.CoreR\CoreR\CoreR.Data\bin\Debug\netcoreapp2.1\CoreR.Data.pdb
+E:\3.Learning\2.CoreR\CoreR\CoreR.Data\bin\Debug\netcoreapp2.1\CoreR.Domain.dll
+E:\3.Learning\2.CoreR\CoreR\CoreR.Data\bin\Debug\netcoreapp2.1\CoreR.Models.dll
+E:\3.Learning\2.CoreR\CoreR\CoreR.Data\bin\Debug\netcoreapp2.1\CoreR.Domain.pdb
+E:\3.Learning\2.CoreR\CoreR\CoreR.Data\bin\Debug\netcoreapp2.1\CoreR.Models.pdb
+E:\3.Learning\2.CoreR\CoreR\CoreR.Data\obj\Debug\netcoreapp2.1\CoreR.Data.csprojAssemblyReference.cache
+E:\3.Learning\2.CoreR\CoreR\CoreR.Data\obj\Debug\netcoreapp2.1\CoreR.Data.csproj.CoreCompileInputs.cache
+E:\3.Learning\2.CoreR\CoreR\CoreR.Data\obj\Debug\netcoreapp2.1\CoreR.Data.AssemblyInfoInputs.cache
+E:\3.Learning\2.CoreR\CoreR\CoreR.Data\obj\Debug\netcoreapp2.1\CoreR.Data.AssemblyInfo.cs
+E:\3.Learning\2.CoreR\CoreR\CoreR.Data\obj\Debug\netcoreapp2.1\CoreR.Data.csproj.CopyComplete
+E:\3.Learning\2.CoreR\CoreR\CoreR.Data\obj\Debug\netcoreapp2.1\CoreR.Data.dll
+E:\3.Learning\2.CoreR\CoreR\CoreR.Data\obj\Debug\netcoreapp2.1\CoreR.Data.pdb

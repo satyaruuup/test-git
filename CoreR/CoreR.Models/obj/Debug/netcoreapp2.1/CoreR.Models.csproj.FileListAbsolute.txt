@@ -1,0 +1,9 @@
+E:\3.Learning\2.CoreR\CoreR\CoreR.Models\bin\Debug\netcoreapp2.1\CoreR.Models.deps.json
+E:\3.Learning\2.CoreR\CoreR\CoreR.Models\bin\Debug\netcoreapp2.1\CoreR.Models.dll
+E:\3.Learning\2.CoreR\CoreR\CoreR.Models\bin\Debug\netcoreapp2.1\CoreR.Models.pdb
+E:\3.Learning\2.CoreR\CoreR\CoreR.Models\obj\Debug\netcoreapp2.1\CoreR.Models.csprojAssemblyReference.cache
+E:\3.Learning\2.CoreR\CoreR\CoreR.Models\obj\Debug\netcoreapp2.1\CoreR.Models.csproj.CoreCompileInputs.cache
+E:\3.Learning\2.CoreR\CoreR\CoreR.Models\obj\Debug\netcoreapp2.1\CoreR.Models.AssemblyInfoInputs.cache
+E:\3.Learning\2.CoreR\CoreR\CoreR.Models\obj\Debug\netcoreapp2.1\CoreR.Models.AssemblyInfo.cs
+E:\3.Learning\2.CoreR\CoreR\CoreR.Models\obj\Debug\netcoreapp2.1\CoreR.Models.dll
+E:\3.Learning\2.CoreR\CoreR\CoreR.Models\obj\Debug\netcoreapp2.1\CoreR.Models.pdb

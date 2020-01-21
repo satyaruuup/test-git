@@ -1,0 +1,9 @@
+E:\3.Learning\2.CoreR\CoreR\CoreR.Constants\bin\Debug\netcoreapp2.1\CoreR.Constants.deps.json
+E:\3.Learning\2.CoreR\CoreR\CoreR.Constants\bin\Debug\netcoreapp2.1\CoreR.Constants.dll
+E:\3.Learning\2.CoreR\CoreR\CoreR.Constants\bin\Debug\netcoreapp2.1\CoreR.Constants.pdb
+E:\3.Learning\2.CoreR\CoreR\CoreR.Constants\obj\Debug\netcoreapp2.1\CoreR.Constants.csprojAssemblyReference.cache
+E:\3.Learning\2.CoreR\CoreR\CoreR.Constants\obj\Debug\netcoreapp2.1\CoreR.Constants.csproj.CoreCompileInputs.cache
+E:\3.Learning\2.CoreR\CoreR\CoreR.Constants\obj\Debug\netcoreapp2.1\CoreR.Constants.AssemblyInfoInputs.cache
+E:\3.Learning\2.CoreR\CoreR\CoreR.Constants\obj\Debug\netcoreapp2.1\CoreR.Constants.AssemblyInfo.cs
+E:\3.Learning\2.CoreR\CoreR\CoreR.Constants\obj\Debug\netcoreapp2.1\CoreR.Constants.dll
+E:\3.Learning\2.CoreR\CoreR\CoreR.Constants\obj\Debug\netcoreapp2.1\CoreR.Constants.pdb
